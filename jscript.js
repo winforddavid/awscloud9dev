@@ -9,4 +9,4 @@ let objFullname = {
         oTitle: profession,
 }
 //document.write("Hi My name is " + objFullname.oFName, objFullname.oSName + "My Profession is " objFullname.oTitle);
-document.write("My Name is " + objFullname.oFName + objFullname.oSName + "," + "My Profession is " + objFullname.oTitle);
+document.write("My Fullname Name is " + objFullname.oFName + objFullname.oSName + "," + "My Profession is " + objFullname.oTitle);
